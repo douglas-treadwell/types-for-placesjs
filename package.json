@@ -1,0 +1,11 @@
+{
+  "name": "@types/places.js",
+  "version": "1.0.0",
+  "description": "TypeScript type definitions for places.js",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/douglas-treadwell/types-for-placesjs"
+  },
+  "author": "Douglas Treadwell",
+  "license": "MIT"
+}
